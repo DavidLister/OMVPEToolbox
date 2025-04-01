@@ -1,0 +1,24 @@
+# OMVPEToolbox
+
+A GUI tool for computing common quantities for OMVPE reactors.
+
+## Goals
+
+Calculate:
+- Molar flow rate of OM
+- Calculate V/III ratio
+- Calculate gas partial pressures
+- Solve equations in any direction (eg OM bubbler rate given desired V/III ratio)
+
+Open and view many files:
+- Import a .csv recipe file and run calculations
+- Import a .csv run log file and run calculations
+- Plot data from a logged run
+- Visualize a recipe file
+- Open saved xrd files
+- Open and analyze rtlr files
+
+Features
+- Save software state so that it's easy to open and get running
+
+
